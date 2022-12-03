@@ -44,7 +44,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-black"
         android:lineSpacingExtra="8sp"
-        android:text="Hello World!"
+        android:text="@string/don_t_touch_me"
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="#039BE5"
